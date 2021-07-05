@@ -1,2 +1,3 @@
 # ToDoCalender
-An App using Swift and Firebase.
+An app using Swift and Firebase. In this app, one can make current days to do list and also can check the weather info of the current day to set his plans.
+
